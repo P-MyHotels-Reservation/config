@@ -32,7 +32,7 @@ eureka:
       defaultZone: http://localhost:8083/eureka
 
 hotel-service:
-  host: "http://localhost:8090"
+  host: "http://localhost:8807"
   hotel-path: "/api/hotel"
 
 resilience4j:
